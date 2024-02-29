@@ -75,6 +75,4 @@ if submit:
         print(row)
         st.header(row)
 
-## Commit your changes int he databse
-connection.commit()
-connection.close()
+
