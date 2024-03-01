@@ -1,1 +1,1 @@
-# LLM_Text2SQL
+# Objective: Google Gemini API to Convert Text Language Prompt in to SQL command
